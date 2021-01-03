@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bb292cc6.chunk.css",
+    "main.js": "/static/js/main.2a83dbf6.chunk.js",
+    "main.js.map": "/static/js/main.2a83dbf6.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.2b54a308.js",
+    "runtime-main.js.map": "/static/js/runtime-main.2b54a308.js.map",
+    "static/css/2.1d6907fe.chunk.css": "/static/css/2.1d6907fe.chunk.css",
+    "static/js/2.d6ef06b5.chunk.js": "/static/js/2.d6ef06b5.chunk.js",
+    "static/js/2.d6ef06b5.chunk.js.map": "/static/js/2.d6ef06b5.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.cd543998c6a0565aca46ecbba98419f2.js": "/precache-manifest.cd543998c6a0565aca46ecbba98419f2.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.1d6907fe.chunk.css.map": "/static/css/2.1d6907fe.chunk.css.map",
+    "static/css/main.bb292cc6.chunk.css.map": "/static/css/main.bb292cc6.chunk.css.map",
+    "static/js/2.d6ef06b5.chunk.js.LICENSE": "/static/js/2.d6ef06b5.chunk.js.LICENSE",
+    "static/media/cancun.jpg": "/static/media/cancun.cd98e2c3.jpg",
+    "static/media/dubai.jpg": "/static/media/dubai.37789c74.jpg",
+    "static/media/index.css": "/static/media/hero-bg.14572c1d.jpg",
+    "static/media/london.jpg": "/static/media/london.fb5d70bd.jpg",
+    "static/media/los-angeles.jpg": "/static/media/los-angeles.89461b11.jpg",
+    "static/media/san-fransisco.jpg": "/static/media/san-fransisco.23aadf81.jpg",
+    "static/media/toronto.jpg": "/static/media/toronto.83e03ad0.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2b54a308.js",
+    "static/css/2.1d6907fe.chunk.css",
+    "static/js/2.d6ef06b5.chunk.js",
+    "static/css/main.bb292cc6.chunk.css",
+    "static/js/main.2a83dbf6.chunk.js"
+  ]
+}
